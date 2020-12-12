@@ -1,9 +1,9 @@
 # Completely randomized design
-#Abstract 
+# Abstract 
 The trout were placed at random in four different troughs. The fish food added to the troughs contained, respectively, 0, 5, 10, and 15g of sulfamerazine per 100 pounds of fish (coded 1, 2, 3, 4). The measurements of hemoglobin (gram per 100ml) in the blood of brown trout were measured after 35 days. The measurements were made on ten randomly selected fish from each trough. We used one-way effects model to test the effect of the sulfamerazine on the hemoglobin measurements, and we compared the differences between each two groups using pairwise test. Also, we used comparisons to control method to compare each group with a control (group 1). We conclude that sulfamerazin can affect the hemoglobin measurements in the Trout. Also, from pairwise all the groups don’t have different effects between each other except the two comparison groups are different (group 1 and 2), and (group 1 and 3) are different.
 
-#Introduction
+# Introduction
 The data in the table show the measurements of hemoglobin (gram per 100ml) in the blood of brown trout. The trout were placed at random in four different troughs. The fish food added to the troughs contained, respectively, 0, 5, 10, and 15g of sulfamerazine per 100 pounds of fish (coded 1, 2, 3, 4). The measurements were made on ten randomly selected fish from each trough after 35 days. We want to know if the sulfamerazine can affect the hemoglobin measurements, and if it can affect the hemoglobin measurements, how the sulfamerazine doses 0, 5, 10 and 15 are different from each other.
 
-#Design 
+# Design 
 We used completely randomized design to answer the research questions. We used one-way effects model y_{ij}=\mu\ +\tau_{i\ \ }+\ e_{ij} . For each group  r_i = 10 so the design is balanced, and we have 4 groups (1= 0g , 2 = 5g , 3 = 10g , 4 = 15g) so t = 4. In this model, the treatment is sulfamerazine and the response variable is the hemoglobin measurements. To answer the question if sulfamerazine can affect the hemoglobin measurements we test the null hypothesis at significance level 0.05 
