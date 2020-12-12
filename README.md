@@ -1,4 +1,4 @@
-# Completely randomized design
+# Completely Randomized Resign (CRD)
 # Abstract 
 The trout were placed at random in four different troughs. The fish food added to the troughs contained, respectively, 0, 5, 10, and 15g of sulfamerazine per 100 pounds of fish (coded 1, 2, 3, 4). The measurements of hemoglobin (gram per 100ml) in the blood of brown trout were measured after 35 days. The measurements were made on ten randomly selected fish from each trough. We used one-way effects model to test the effect of the sulfamerazine on the hemoglobin measurements, and we compared the differences between each two groups using pairwise test. Also, we used comparisons to control method to compare each group with a control (group 1). We conclude that sulfamerazin can affect the hemoglobin measurements in the Trout. Also, from pairwise all the groups don’t have different effects between each other except the two comparison groups are different (group 1 and 2), and (group 1 and 3) are different.
 
