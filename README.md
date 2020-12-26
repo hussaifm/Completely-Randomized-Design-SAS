@@ -25,3 +25,6 @@ H_0:\ \tau_2-\tau_1=0, vs H_1:\ \tau_2-\tau_1\neq0
 H_0:\ \tau_3-\tau_1=0, vs H_1:\ \tau_3-\tau_1\neq 0
 H_0:\ \tau_4-\tau_1=0, vs H_1:\ \tau_4-\tau_1\neq\ 0
 
+
+
+
