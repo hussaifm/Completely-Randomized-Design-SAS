@@ -70,6 +70,8 @@ H0= τ4 - τ1 = 0 The p-value is 0.0308. We reject the H_0 at significance level
 # Conclusion 
 From One-Way ANOVA test results, we conclude that the sulfamerazine treatment can affect the hemoglobin measurement in the Trout because the p-value is significant. Also, from the pairwise comparisons, we found the group1 who received 0 g sulfamerazine & group 2 who received 5 g are different from each other. Similarly, group1 & group 3 who received 10 g are different from each other unlike the other comparison groups which are not different from each other. Furthermore, we wanted to compare the means of each group using the group that received 0 g of sulfamerazine as a control group. The group 2 which received 5 g is different from the control, and the hemoglobin mean of group 2 is 9.33, the mean difference between group 2 & control is 2.13. The group 3 which received 10 g is different from the control too, and the hemoglobin mean for group 3 is 9.03, the mean difference between group 3 and the control is 1.83. The group 4 which received 15 g is different from the control and the hemoglobin mean of group 4 is 8.69, the mean difference between group 4 and control is the least between all the groups 1.49. So, that means as we increase the treatment doses, the hemoglobin measurements decreases and gets closer to the control.
 
+# Refrences 
+Dean,A.P.(2017).Design and Analysis of Experiemnts.Springer
 
 
 
