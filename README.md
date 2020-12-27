@@ -48,7 +48,8 @@ H0= τ2 - τ4 The p-value is 0.6660. We fail to reject the H0 at significance le
 
 H0= τ3 - τ4 The p-value is 0.9292. We fail to reject the H0 at significance level 0.05 
 ![SAS tukey](https://user-images.githubusercontent.com/56862845/103164546-e6780500-47da-11eb-97b7-10f4bffa0cc2.PNG)
-
+![SAS tukey2](https://user-images.githubusercontent.com/56862845/103164592-7158ff80-47db-11eb-9fd9-f511e56c4699.PNG)
+The graph shows the two comparison groups  τ1 - τ2 ≠0 and τ1 - τ3 ≠ 0 only are significant.
 
 
 
