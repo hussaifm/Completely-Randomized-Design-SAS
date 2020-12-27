@@ -10,6 +10,9 @@ The trout were placed at random in four different troughs. The fish food added t
 # Introduction
 The data in the table show the measurements of hemoglobin (gram per 100ml) in the blood of brown trout. The trout were placed at random in four different troughs. The fish food added to the troughs contained, respectively, 0, 5, 10, and 15g of sulfamerazine per 100 pounds of fish (coded 1, 2, 3, 4). The measurements were made on ten randomly selected fish from each trough after 35 days. We want to know if the sulfamerazine can affect the hemoglobin measurements, and if it can affect the hemoglobin measurements, how the sulfamerazine doses 0, 5, 10 and 15 are different from each other.
 
+![trout table](https://user-images.githubusercontent.com/56862845/103164810-d1e93c00-47dd-11eb-9167-01e33e92f3ab.JPG)
+
+
 # Design 
 We used completely randomized design to answer the research questions. We used one-way effects model yij=μ +τi
 =eij. For each group  ri = 10 so the design is balanced, and we have 4 groups (1= 0g , 2 = 5g , 3 = 10g , 4 = 15g) so t = 4. In this model, the treatment is sulfamerazine and the response variable is the hemoglobin measurements. To answer the question if sulfamerazine can affect the hemoglobin measurements we test the null hypothesis at significance level 0.05 H0= τ1 = τ2 = τ3 = τ4 vs H1:not all τi's are 0. We can get F = MST/MSE from SAS then reject the null hypothesis if F > F0.05
