@@ -18,11 +18,18 @@ To answer the second question: how are the 4 groups of sulfamerazine are differe
 
 Pairwise comparisons (Tukey’s method) to compare mean responses between any two groups and we calculated the 95% confidence intervals, we will perform six comparisons in this scenario. We test this six null hypothesis and we use the p-value to identify the significant comparisons at significant level 0.05:
 
-H0= τ1 - τ2 , H0= τ1 - τ3 , H0= τ1 - τ4 , H0= τ2 - τ3 , H0= τ2 - τ4 , H0= τ3 - τ4
+H0= τ1 - τ2 = 0 
+H0= τ1 - τ3 = 0 
+H0= τ1 - τ4 = 0
+H0= τ2 - τ3 = 0 
+H0= τ2 - τ4 = 0
+H0= τ3 - τ4 = 0
 
 Comparisons to control (Dunnett’s method) we will compare the mean response between the control group and the 95% confidence intervals we will have three comparisons in this scenario. Our control group is group 1 because this is the group that had received 0 g of sulfamerazine and we want to compare each group with group 1. We used the p-value to identify the significant comparisons at significant level 0.05
 
-H0= τ2 - τ1 = 0 , H0= τ3 = τ1 , H0= τ1 = τ4
+H0= τ2 - τ1 = 0 
+H0= τ3 - τ1 = 0 
+H0= τ1 - τ4 = 0
 
 # Results
 We used SAS software 9.4 to conduct One-Way ANOVA. We tested first null hypothesis H0= τ1 = τ2 = τ3 = τ4 vs H1:not all τi's are 0.\ The P-value in the Type III S table is 0.0027. We reject the null hypothesis at significance level 0.05. In other words, F =MST/MSE = 5.70 and F0.05 (3,36) = 2.86. So, F >  F0.05 The SAS outputs are below:
@@ -40,6 +47,9 @@ H0= τ2 - τ3 The p-value is 0.9498. We fail to reject the H0 at significance le
 H0= τ2 - τ4 The p-value is 0.6660. We fail to reject the H0 at significance level 0.05
 
 H0= τ3 - τ4 The p-value is 0.9292. We fail to reject the H0 at significance level 0.05 
+![SAS tukey](https://user-images.githubusercontent.com/56862845/103164546-e6780500-47da-11eb-97b7-10f4bffa0cc2.PNG)
+
+
 
 
 
